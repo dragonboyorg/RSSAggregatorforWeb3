@@ -6,7 +6,7 @@
 	</head>
 <body>
 	<outline text="07. Others" title="07. Others">
-		<outline text="Ethereum Research - Latest posts" title="Ethereum Research - Latest posts" description="" type="rss" version="RSS" htmlUrl="https://ethresear.ch/" xmlUrl="https://ethresear.ch/posts.rss"/>
+		<outline text="zlexdl.eth Mirror" title="zlexdl.eth Mirror" description="" type="rss" version="RSS" htmlUrl="https://mirror.xyz/zlexdl.eth" xmlUrl="https://submirror.xyz/zlexdl.eth"/>
 		<outline text="Ethereum Research - Latest topics" title="Ethereum Research - Latest topics" description="" type="rss" version="RSS" htmlUrl="https://ethresear.ch/latest" xmlUrl="https://ethresear.ch/latest.rss"/>
 	</outline>
 	</body>
